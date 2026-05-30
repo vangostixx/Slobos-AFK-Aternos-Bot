@@ -60,7 +60,7 @@
   "modules": {
     "avoidMobs": true,
     "combat": true,
-    "beds": false,
+    "beds": true,
     "chat": false,
     "console-commands": false
   },
