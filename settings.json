@@ -29,7 +29,7 @@
     "chat-messages": {
       "enabled": true,
       "repeat": true,
-      "repeat-delay": 1,
+      "repeat-delay": 10000,
       "messages": [
         "минитек сын шлюхи",
         "чай сын шлюхи",
@@ -39,7 +39,7 @@
     "chat-log": true,
     "auto-reconnect": true,
     "auto-reconnect-delay": 2000,
-    "max-reconnect-delay": 120000
+    "max-reconnect-delay": 150000000
   },
   "movement": {
     "enabled": false,
@@ -50,7 +50,7 @@
     },
     "look-around": {
       "enabled": true,
-      "interval": 5000
+      "interval": 5
     },
     "random-jump": {
       "enabled": false,
