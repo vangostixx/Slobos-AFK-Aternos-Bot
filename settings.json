@@ -1,12 +1,12 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "eblan_2",
+    "username": "eblan",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "volosatilobok.aternos.me",
+    "ip": "weasel.aternos.host",
     "port": 48769,
     "version": "",
     "try-creative": false
